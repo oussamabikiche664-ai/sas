@@ -7,4 +7,4 @@ for (i=1 ; i<=10 ; i++){
     console.log(N*i )
 
 }
-console.log(multiple);
+console.log( multiple);
