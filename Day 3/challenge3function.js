@@ -2,7 +2,7 @@ function genererEmail(prenom,nom){
 
     let Email=prenom+'.'+nom+"@entreprise.com";
 
-console.log(Email);
+return Email;
 }
 
 
